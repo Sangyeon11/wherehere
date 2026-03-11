@@ -1,9 +1,4 @@
-'use client'
 
-/**
- * WhereHere - Production Ready Home Client
- * 실제 API 연동 + 상용화 수준 UI
- */
 
 import { useState, useEffect } from 'react'
 import { useQuery, useMutation } from '@tanstack/react-query'
